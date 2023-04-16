@@ -1,0 +1,24 @@
+<h1 align="center">
+  <br>
+  Welcome to Bxckup
+ <br>
+</h1>
+
+<h3 align=center>Bxkckup of one of the best multipurpose Discord Bot to improve your server! The Bot is a fully functional discord Bot with many commands. Moderation, Leveling, Starboard, Logging and more. In this Repository you will find everything about Bxckup</h3>
+
+## Stack:
+
+- **Bot:** bot created with [Disnake](https://github.com/DisnakeDev/disnake).
+
+**Common:** 
+- We use [MongoDB](https://www.mongodb.com/) The Main Data Storage
+- We use [Python](https://www.python.org/) as our main Language.
+
+**Developers:**
+- [github.com/Scxred](https://github.com/Scxredx)
+
+## License:
+
+Released under the [MIT License](https://choosealicense.com/licenses/mit) license.
+
+
