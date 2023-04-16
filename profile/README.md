@@ -4,7 +4,8 @@
  <br>
 </h1>
 
-<h3 align=center>Bxkckup of one of the best multipurpose Discord Bot to improve your server! The Bot is a fully functional discord Bot with many commands. Moderation, Leveling, Starboard, Logging and more. In this Repository you will find everything about Bxckup</h3>
+<h3 align=center>Bxckup of one of the best multipurpose Discord Bot to improve your server! The Bot is a fully functional Discord Bot with many commands.
+Moderation, Leveling, Starboard, Logging and more. In this Repository you will find everything about Bxckup</h3>
 
 ## Stack:
 
