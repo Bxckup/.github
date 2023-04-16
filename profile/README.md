@@ -15,8 +15,9 @@ Moderation, Leveling, Starboard, Logging and more. In this Repository you will f
 - We use [MongoDB](https://www.mongodb.com/) The Main Data Storage
 - We use [Python](https://www.python.org/) as our main Language.
 
-**Developers:**
+**Owners:**
 - [github.com/Scxred](https://github.com/Scxredx)
+- [github.com/Joelino560](https://github.com/Joelino560)
 
 ## License:
 
